@@ -27,7 +27,7 @@ public class Main {
         if (isPrime){
             System.out.println("sayi asaldir");
         }else{
-            System.out.println("sayi asal deildir");
+            System.out.println("sayi asal değildir");
         }
     }
 }
